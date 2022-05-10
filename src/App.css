@@ -1,0 +1,35 @@
+.App {
+  text-align:justify;
+  
+
+  padding-left: 350px;
+  padding-top:75px ;
+  padding-right: 350px;
+  padding-bottom: 75px;
+  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+}
+h1{
+  text-align: justify;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  font-style: italic;
+  color: rgb(102, 86, 34);
+  
+}
+
+body{background-color:rgb(192, 183, 175) ;
+  border:30px rgb(179, 102, 35) outset;
+}
+
+.App button{
+  background-color: #82bdec;
+  
+}
+ button{
+  position:absolute;
+  width: 270px;
+  background-color: aqua;
+  color: rgb(37, 48, 204);
+}
